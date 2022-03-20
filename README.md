@@ -3,8 +3,8 @@
 
  <div>
   <a href="https://github.com/luuull">
-   <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuull&layout=compact&langs_count=16&theme=moltack"/>
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=luuull&show_icons=true&theme=moltack&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=luuull&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuull&layout=compact&langs_count=16&theme=solarized-light"/>
    
 </div>
   
