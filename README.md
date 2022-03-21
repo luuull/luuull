@@ -3,8 +3,7 @@
 
  <div>
   <a href="https://github.com/luuull">
-  <img align="center" height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=luuull&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide=issues"/>
-  <img align="center" height="auto" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuull&layout=compact&langs_count=16&theme=buefy"/>
+ <img align="center" height="auto" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuull&layout=compact&langs_count=16&theme=buefy"/>
    
 </div>
   
