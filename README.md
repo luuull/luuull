@@ -1,7 +1,9 @@
 
 ## Greetings, human! 
 
-<div> <h4> My name's Luana and I'm learning about Front-End Development. </div>
+<div><h4> My name's Luana and I'm learning about Front-End Development.</div> 
+<div><h6>I'm very enthusiast about front-end because I really like this experience as a user, which also makes me interested in design.</div>
+
 
 <div>
   <a href="https://github.com/luuull">
