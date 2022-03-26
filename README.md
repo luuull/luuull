@@ -1,5 +1,8 @@
 
 ## Greetings, human! 
+
+<div> <h4> My name's Luana and I'm learning about Front-End Development. </div>
+
 <div>
   <a href="https://github.com/luuull">
    <img align="left" height="auto" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuull&layout=compact&langs_count=16&theme=buefy"/>     </a>
