@@ -1,7 +1,7 @@
 
 ## Greetings, human! 
 
-<div><h4> My name's Luana and I'm learning about Front-End Development looking to make a career change.</div> 
+<div><h4>My name's Luana and I'm looking to make a career change to tech area. So far I've abilities in Html, Css, Bootstrap.</div> 
 <div><h5>I'm very enthusiastic about front-end because I really like this experience as a user, which also makes me interested in design.</div>
 
 
