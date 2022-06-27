@@ -19,7 +19,7 @@
    
    <img width="27%" src="https://user-images.githubusercontent.com/101467080/176013851-bc3ea2d8-7185-4989-9cad-89ac2c884d28.png">
    
-   <img width="127" src="https://jianan1104.github.io/avatar.gif">
+   <img width="120" src="https://jianan1104.github.io/avatar.gif">
 </div>
 
  ## Contact 
