@@ -15,12 +15,16 @@
 <div>
   <a href="https://github.com/luuull">
    <img align="left" height="auto" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuull&layout=compact&langs_count=16&theme=buefy"/>     </a>
-   <img width="150px" height="auto" src="https://github.com/luuull/luuull/blob/main/cat.gif">
+   
+   <img src="https://user-images.githubusercontent.com/101467080/176013851-bc3ea2d8-7185-4989-9cad-89ac2c884d28.png">
+   
+   <img src="https://cdnb.artstation.com/p/assets/images/images/035/765/825/original/giovanna-paz-black-cat.gif?1615841305">
 </div>
 
  ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/luana-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
  ![Snake animation](https://github.com/luuull/luuull/blob/output/github-contribution-grid-snake.svg)
 </div>
