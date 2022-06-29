@@ -21,9 +21,13 @@
    <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuull&layout=compact&langs_count=16&theme=buefy"/>  
   </a>
    
-   <img width="27%" src="https://user-images.githubusercontent.com/101467080/176013851-bc3ea2d8-7185-4989-9cad-89ac2c884d28.png">
+   <a href="https://www.programaria.org/especiais/mulheres-tecnologia/">
+    <img width="27%" src="https://user-images.githubusercontent.com/101467080/176013851-bc3ea2d8-7185-4989-9cad-89ac2c884d28.png">
+   </a> 
    
-   <img width="120" src="https://jianan1104.github.io/avatar.gif">
+   <a href="https://github.com/luuull">
+    <img width="120" src="https://jianan1104.github.io/avatar.gif">
+   </a>
 </section> 
   
 <section align="center">
@@ -34,6 +38,8 @@
 
 <section align="center"> 
 
-  <img src="https://user-images.githubusercontent.com/101467080/176333971-1cabaf5e-915c-4b01-be6d-31ef4b2397cc.svg">
+  <a href="https://github.com/luuull">
+    <img src="https://user-images.githubusercontent.com/101467080/176333971-1cabaf5e-915c-4b01-be6d-31ef4b2397cc.svg">
+  </a>  
 
 </section> 
