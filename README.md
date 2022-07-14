@@ -26,7 +26,7 @@
    </a> 
    
    <a href="https://github.com/luuull">
-    <img width="125" src="https://jianan1104.github.io/avatar.gif">
+    <img width="122" src="https://jianan1104.github.io/avatar.gif">
    </a>
 </section> 
   
