@@ -1,7 +1,8 @@
 
 ## Greetings, human! 
 <section> 
-  <h4>My name's Luana and I'm looking to make a career change to tech area.
+  <h4>My name's Luana and I'm looking to make a career change to tech area. 
+  <h4>I'm studying front-end development and ux design.
   <br><br>
     <div style="display: inline_block">
       So far I've abilities in:
