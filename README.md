@@ -2,7 +2,7 @@
 ## Greetings, human! 
 <section> 
   <h4>My name's Luana and I'm looking to make a career change to tech area. 
-  <p>I'm studying front-end development and ux design.
+  <p>I'm currently studying front-end development and ux design. 
   <br>
     <div style="display: inline_block">
       <p>So far I've abilities in:
